@@ -8206,6 +8206,98 @@ Transform:
   m_Children: []
   m_Father: {fileID: 268787109}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &444861402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: text
+      value: 'Avatar, Directeur: James Cameron, Produit par 20th Century Fox'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: startText
+      value: "D\xE9tail"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: newTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: 22db4f134c5fb58489268e9949ef1179, type: 3}
+    - target: {fileID: 3041156844512022673, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757276396157907146, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_Name
+      value: CadreVert (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6881511173341077905, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+  m_SourcePrefab: {fileID: 100100000, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
 --- !u!1 &445092160
 GameObject:
   m_ObjectHideFlags: 0
@@ -10768,7 +10860,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: text
-      value: 
+      value: 'Avatar: The Way of Water, Directeur: James Cameron, Produit par 20th
+        Century Fox'
       objectReference: {fileID: 0}
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: startText
@@ -10777,7 +10870,7 @@ PrefabInstance:
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: newTexture
       value: 
-      objectReference: {fileID: 2800000, guid: 1c2d848e39e241141b835990f605ad41, type: 3}
+      objectReference: {fileID: 2800000, guid: 2cbce5b89ebd82040a4f97d3bbf19e22, type: 3}
     - target: {fileID: 3041156844512022673, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -10804,7 +10897,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.459
+      value: 1.6
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -14448,7 +14541,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 23800000, guid: 2001d378c50964c419162ffdca0ada7c, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: d1dd426174658544b8213abc877d7143, type: 2}
   m_BuildHeightMesh: 0
 --- !u!4 &817047062
 Transform:
@@ -29456,7 +29549,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: text
-      value: 
+      value: 'Avengers: Endgame, Directeur: Anthony Russo, Produit par Marvel Studios'
       objectReference: {fileID: 0}
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: startText
@@ -29465,7 +29558,7 @@ PrefabInstance:
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: newTexture
       value: 
-      objectReference: {fileID: 2800000, guid: 1c2d848e39e241141b835990f605ad41, type: 3}
+      objectReference: {fileID: 2800000, guid: cc9d1dd57319ed84a95655fabca047e8, type: 3}
     - target: {fileID: 3041156844512022673, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -29492,11 +29585,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.459
+      value: 1.6
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.2
+      value: 4.01
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalRotation.w
@@ -35475,7 +35568,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1950639817
 Transform:
   m_ObjectHideFlags: 0
@@ -37850,7 +37943,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: text
-      value: 
+      value: 'Titanic (1997), Directeur: James Cameron, Produit par Paramount Pictures'
       objectReference: {fileID: 0}
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: startText
@@ -37859,7 +37952,7 @@ PrefabInstance:
     - target: {fileID: 1813863114388224718, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: newTexture
       value: 
-      objectReference: {fileID: 2800000, guid: 1c2d848e39e241141b835990f605ad41, type: 3}
+      objectReference: {fileID: 2800000, guid: 3c899ea3033dc5f45aba6f02ea3fd460, type: 3}
     - target: {fileID: 3041156844512022673, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -37882,11 +37975,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.69
+      value: 3.82
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.459
+      value: 1.6
       objectReference: {fileID: 0}
     - target: {fileID: 7902964442525487324, guid: 52d07d68755f45a4e8ba6a3cf5404edb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -40628,5 +40721,6 @@ SceneRoots:
   - {fileID: 530997280}
   - {fileID: 2072380525}
   - {fileID: 1664282673}
+  - {fileID: 444861402}
   - {fileID: 595327382}
   - {fileID: 2124502978}
